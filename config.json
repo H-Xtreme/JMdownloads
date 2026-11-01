@@ -1,0 +1,16 @@
+{
+  "save_dir": "E:\\WorkBuddy AI\\demodemo\\jm_gui\\downloads",
+  "fmt_pdf": true,
+  "fmt_zip": false,
+  "fmt_long": false,
+  "keep_images": true,
+  "pdf_encrypt": false,
+  "pdf_password": "",
+  "client_impl": "api",
+  "proxy": "",
+  "image_suffix": "原样（推荐）",
+  "threads_image": 20,
+  "threads_photo": 8,
+  "retry_times": 5,
+  "domain": ""
+}
