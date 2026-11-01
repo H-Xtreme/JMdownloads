@@ -1,10 +1,10 @@
 {
-  "save_dir": "E:\\WorkBuddy AI\\demodemo\\jm_gui\\downloads",
+  "save_dir": "H:\\H-extreme\\禁漫下载器\\downloads",
   "fmt_pdf": true,
   "fmt_zip": false,
   "fmt_long": false,
   "keep_images": true,
-  "pdf_encrypt": false,
+  "pdf_encrypt": true,
   "pdf_password": "",
   "client_impl": "api",
   "proxy": "",

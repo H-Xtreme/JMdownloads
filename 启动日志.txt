@@ -1,7 +1,7 @@
-===== 启动 2026-11-01 16:12:35 =====
+===== 启动 2026-11-01 17:10:28 =====
 Python   : 3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
-可执行文件: E:\WorkBuddy AI\demodemo\jm_gui\runtime\pythonw.exe
-程序目录  : E:\WorkBuddy AI\demodemo\jm_gui
-依赖目录  : E:\WorkBuddy AI\demodemo\jm_gui\libs（存在: True）
+可执行文件: H:\H-extreme\禁漫下载器\runtime\pythonw.exe
+程序目录  : H:\H-extreme\禁漫下载器
+依赖目录  : H:\H-extreme\禁漫下载器\libs（存在: True）
 jmcomic  : 2.7.10
 
